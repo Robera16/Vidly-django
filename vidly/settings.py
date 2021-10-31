@@ -25,7 +25,7 @@ SECRET_KEY = 'kg^wdkyvz-hw87(cwq)(!dza0kk)senib*zde^_@p9l3+vt*fx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['grisly-werewolf-04267.herokuapp.com']
 
 
 # Application definition
